@@ -98,7 +98,7 @@ Open **http://localhost:5173** in your browser.
 
 ## 🔐 Admin Portal Login
 
-Navigate to `http://localhost:<PORT>` → click **"Admin Portal"** in the top navbar.
+Navigate to `http://localhost:4001` → click **"Admin Portal"** in the top navbar.
 
 | Role | Email | Password |
 |------|-------|----------|
