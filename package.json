@@ -1,0 +1,11 @@
+{
+  "name": "localmart",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "server": "npm run dev --prefix server",
+    "client": "npm run dev --prefix client",
+    "start": "node server/src/index.js"
+  }
+}
+
