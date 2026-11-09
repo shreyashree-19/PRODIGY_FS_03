@@ -89,7 +89,7 @@ npm run dev
 cd "c:\Users\shreya suresh\LocalMart – Local Store E-commerce Platform\client"
 npm run dev
 ```
-Open **http://localhost:5173** in your browser.
+Open ** http://localhost:4001** in your browser.
 
 > **Note:** If your backend started on 3001 instead of 5000, update the proxy target in  
 > `client/vite.config.ts` → change `target: 'http://localhost:5000'` to `'http://localhost:3001'`
@@ -98,7 +98,7 @@ Open **http://localhost:5173** in your browser.
 
 ## 🔐 Admin Portal Login
 
-Navigate to `http://localhost:4001` → click **"Admin Portal"** in the top navbar.
+Navigate to `http://localhost:<PORT>` → click **"Admin Portal"** in the top navbar.
 
 | Role | Email | Password |
 |------|-------|----------|
